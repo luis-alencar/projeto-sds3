@@ -12,7 +12,7 @@ O projeto é um Dashboard de Vendas de uma aplicação full stack web a aplicaç
 ![Home](https://raw.githubusercontent.com/luis-alencar/projeto-sds3/master/frontend/src/assets/img/f1.png)
 
 ## Dashboard - [DsVendas/Dashboard](https://luis-dsvenda.netlify.app/dashboard "DsVendas/dashboard")
-![Dashboard](https://raw.githubusercontent.com/luis-alencar/projeto-sds3/master/frontend/src/assets/img/f1.png)
+![Dashboard](https://raw.githubusercontent.com/luis-alencar/projeto-sds3/master/frontend/src/assets/img/f2.png)
 
 # Tecnologias utilizadas
 ## Back end
