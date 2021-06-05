@@ -8,11 +8,11 @@ https://luis-dsvenda.netlify.app/
 O projeto é um Dashboard de Vendas de uma aplicação full stack web a aplicação consiste em uma listagem de vendedores, onde serão apresentadas informações sobre quantidade de vendas e sua taxa de sucesso, também apresenta um dashboard com gráficos baseados nestes dados.
 
 
-## Home Page - [DsVendas/Home](https://tiagogomes-dsvendas.netlify.app/ "DsVendas/home")
-![Home](https://github.com/luis-alencar/f1.png)
+## Home Page - [DsVendas/Home](https://luis-dsvenda.netlify.app/ "DsVendas/home")
+![Home](https://raw.githubusercontent.com/luis-alencar/projeto-sds3/master/frontend/src/assets/img/f1.png)
 
-## Dashboard - [DsVendas/Dashboard](https://tiagogomes-dsvendas.netlify.app/dashboard "DsVendas/dashboard")
-![Dashboard](https://github.com/luis-alencar/f2.png)
+## Dashboard - [DsVendas/Dashboard](https://luis-dsvenda.netlify.app/dashboard "DsVendas/dashboard")
+![Dashboard](https://raw.githubusercontent.com/luis-alencar/projeto-sds3/master/frontend/src/assets/img/f1.png)
 
 # Tecnologias utilizadas
 ## Back end
